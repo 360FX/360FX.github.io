@@ -1398,6 +1398,9 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/corrected2-2000x1335.jpg");
 }
+.cid-qMPfPQn1MM H1 {
+  color: #7f1933;
+}
 .cid-qMPgqvxnjR {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1429,5 +1432,16 @@ body {
   color: #7f1933;
 }
 .cid-qMPjmr45Zw P {
+  color: #cccccc;
+}
+.cid-qMPkoFqkTK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/phantom-flex-2000x1262.jpg");
+}
+.cid-qMPkoFqkTK H1 {
+  color: #7f1933;
+}
+.cid-qMPkoFqkTK P {
   color: #cccccc;
 }
